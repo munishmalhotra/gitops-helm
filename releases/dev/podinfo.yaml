@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: munishm/podinfo:dev-hdtwcel9
+    image: munishm/podinfo:dev-hijvfkuz
     replicaCount: 1
     hpa:
       enabled: false
